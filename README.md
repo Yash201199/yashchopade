@@ -1,5 +1,3 @@
-
-
 # yashchopade
 <img src="https://raw.githubusercontent.com/Mayur-Shiwal/Mayur-Shiwal/refs/heads/master/https___cdn.sanity.io_images_r7m53vrk_production_125add5c844d9dda8a5f14827f3d0360c4446270-3840x2160.png" align="middle" alt="Banner" width="100%"/>
 
